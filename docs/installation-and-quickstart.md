@@ -14,4 +14,3 @@
 
 - Start the REPL: `lein repl`
 - Exit the REPL: `CTRL-d`
-- Enter multi-line mode `:set +m`
