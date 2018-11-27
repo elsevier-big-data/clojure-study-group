@@ -5,4 +5,4 @@
 - Go into the directory
     - `cd isbn-verifier`
 - Set up
-    - `lein setup`
+    - `lein duct setup`
