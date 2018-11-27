@@ -1,1 +1,3 @@
 - [Installation and Quickstart](installation-and-quickstart.md)
+- Applications we're hacking at
+    - [Web service ISBN verifier](isbn-verifier.md)
