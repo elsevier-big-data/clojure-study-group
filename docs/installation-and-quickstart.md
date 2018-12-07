@@ -21,4 +21,3 @@
 
 - Leiningen can create starter projects from templates, such as the `app` template which is a simple application:
     - `lein new app my-project-name`
-
