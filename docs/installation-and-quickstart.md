@@ -10,7 +10,7 @@
 
 - If you already have an installation of IntelliJ then you can just install the plugin
     - Go to plugins, search for `Cursive`, and click on install
-- If you don't have IntelliJ then you can download the the IDE from the website: [Cursive](https://cursive-ide.com/userguide/)
+- If you don't have IntelliJ then you can download the the IDE from the website here: [Cursive](https://cursive-ide.com/userguide/)
 
 You'll also need a non-commercial license, which you'll need to obtain from the website [here](https://cursive-ide.com/buy.html). A non-commercial license is fine for hobby projects
 and lasts twelve months, after which you can just download another license.
