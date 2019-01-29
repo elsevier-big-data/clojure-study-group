@@ -27,7 +27,8 @@ a good explanation of the various operations on the Cursive site here: [Paredit 
 
 ## Inside Cursive
 
-- TBD 
+* Configure a REPL: `Tools` > `Edit Configurations` > `Clojure REPL` > Hit OK
+* Click in the REPL window to start the REPL
 
 # Getting starting
 
