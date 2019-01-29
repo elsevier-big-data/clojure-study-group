@@ -1,3 +1,4 @@
 - [Installation and Quickstart](installation-and-quickstart.md)
 - Applications we're hacking at
+    - [Advent of Code 2018](advent-of-code-2018.md)
     - [Web service ISBN verifier](isbn-verifier.md)
